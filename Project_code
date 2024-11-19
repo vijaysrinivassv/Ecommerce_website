@@ -1,9 +1,0 @@
-Spring Boot E-Commerce Application: A Comprehensive Online Shopping Solution
-
-This is a Spring Boot-based e-commerce application built with Spring Boot for the backend and HTML and CSS for the frontend.
-
-The project incorporates unique features such as:
-
-Personalized Pop-Up Screens: These allow for a more tailored shopping experience by personalizing customer interactions.
-Smart Product Recommendations: The application includes a feature that displays relevant add-ons based on the product selected. For example, if a customer selects an Apple smartphone, accessories like chargers, cases, and other Apple-compatible items are shown on the following pages.
-These features enhance the user experience and make shopping more intuitive and convenient.
